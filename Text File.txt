@@ -1,0 +1,2 @@
+source .venv_tf/bin/activate
+jupyter notebook
